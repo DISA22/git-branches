@@ -8,6 +8,8 @@ public class Main {
         System.out.println("gegege govno aaa");
 
         System.out.println("gagagag govno");
+        System.out.println("asdasdasfasfasdasd");
+
 
         System.out.println("asdasdasda");
     }
